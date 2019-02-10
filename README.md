@@ -6,15 +6,3 @@ This is a simple React app with the sole aim of being refactored to use Redux. P
 
 ![Hello Redux](https://i.imgur.com/S3Oarek.png)
 
-
-## Directions 
-1. Clone the repo
-```git clone https://github.com/ohansemmanuel/hello-redux.git```
-
-2. Change directory 
-```cd hello-redux```
-
-3. Run the application 
-```npm start```
-
-4. Go on and refactor to use Redux!
